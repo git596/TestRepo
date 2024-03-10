@@ -3,6 +3,7 @@ import 'package:weatherapp/weather_screen.dart';    //import weather_screen.dart
 
 void main() {
   runApp(const MyApp());
+  print("Test message for practicing GitHub!");
 }
 
 class MyApp extends StatelessWidget {
